@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Etherum:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbe21d24-ef90-409f-a237-0ffc3a345c42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxW16SgZc8wEmt1vcrSMwncN32" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/opt/runemate/RuneMate.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.khavkivar.Main" />
+      <module name="Etherum" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbe21d24-ef90-409f-a237-0ffc3a345c42" name="Default Changelist" comment="" />
+      <created>1585781007388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585781007388</updated>
+      <workItem from="1585781011853" duration="8018000" />
+      <workItem from="1585794662476" duration="457000" />
+      <workItem from="1585797629638" duration="8822000" />
+      <workItem from="1585808950945" duration="8350000" />
+      <workItem from="1585843307193" duration="3057000" />
+      <workItem from="1585854852249" duration="779000" />
+      <workItem from="1585866486132" duration="3947000" />
+      <workItem from="1585887321659" duration="9579000" />
+      <workItem from="1585929358524" duration="1940000" />
+      <workItem from="1585945331971" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="92" width="849" height="676" key="#Project_Structure" timestamp="1585945386666">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="517" y="92" width="849" height="676" key="#Project_Structure/0.28.1366.740@0.28.1366.740" timestamp="1585945386666" />
+    <state x="982" y="121" width="376" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1585889736652">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="982" y="121" width="376" height="574" key="#com.intellij.ide.util.MemberChooser/0.28.1366.740@0.28.1366.740" timestamp="1585889736652" />
+    <state x="482" y="100" width="426" height="483" key="FileChooserDialogImpl" timestamp="1585945376251">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="482" y="100" width="426" height="483" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1585945376251" />
+    <state x="450" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1585945342331">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="450" y="226" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1585945342331" />
+    <state x="0" y="28" width="1358" height="739" key="new project wizard" timestamp="1585854588560">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="0" y="28" width="1358" height="739" key="new project wizard/0.28.1366.740@0.28.1366.740" timestamp="1585854588560" />
+  </component>
+</project>

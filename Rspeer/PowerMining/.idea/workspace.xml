@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PowerMining" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85b5aaba-293d-4b13-aeb0-fc8232968108" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zq1uDI0g35NDJzePS5oQnMrkYr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/WoodCut" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b5aaba-293d-4b13-aeb0-fc8232968108" name="Default Changelist" comment="" />
+      <created>1585552030861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585552030861</updated>
+      <workItem from="1585552033687" duration="1186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="60" width="1030" height="676" key="#Project_Structure" timestamp="1585552383289">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="60" width="1030" height="676" key="#Project_Structure/0.28.1366.740@0.28.1366.740" timestamp="1585552383289" />
+    <state x="491" y="111" width="376" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1585553211111">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="491" y="111" width="376" height="574" key="#com.intellij.ide.util.MemberChooser/0.28.1366.740@0.28.1366.740" timestamp="1585553211111" />
+    <state x="450" y="141" width="497" height="512" key="FileChooserDialogImpl" timestamp="1585553217746">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="450" y="141" width="497" height="512" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1585553217746" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585552034308">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1585552034308" />
+    <state x="477" y="90" width="434" height="614" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585552268126">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="477" y="90" width="434" height="614" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1366.740@0.28.1366.740" timestamp="1585552268126" />
+  </component>
+</project>

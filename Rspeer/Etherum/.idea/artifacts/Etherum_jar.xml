@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Etherum:jar">
+    <output-path>$USER_HOME$/RSPeer/scripts</output-path>
+    <root id="archive" name="Etherum.jar">
+      <element id="module-output" name="Etherum" />
+      <element id="extracted-dir" path="$USER_HOME$/.rspeer/2.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
