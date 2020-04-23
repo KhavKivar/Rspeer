@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RannarSmart:jar">
+    <output-path>$USER_HOME$/RSPeer/scripts</output-path>
+    <root id="archive" name="RannarSmart.jar">
+      <element id="module-output" name="RannarSmart" />
+      <element id="extracted-dir" path="$USER_HOME$/.rspeer/2.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

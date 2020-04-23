@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Etherum.iml" filepath="$PROJECT_DIR$/Etherum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtherumKV2.iml" filepath="$PROJECT_DIR$/EtherumKV2.iml" />
     </modules>
   </component>
 </project>

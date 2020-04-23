@@ -1,0 +1,176 @@
+comandos
+NIVEL 1
+
+system-view
+sysname administracion
+interface Ethernet 0/0/1
+port link-type access
+quit
+interface Ethernet 0/0/2
+port link-type access
+quit
+interface Ethernet 0/0/3
+port link-type access
+quit
+vlan 2
+port Ethernet 0/0/1
+port Ethernet 0/0/2
+port Ethernet 0/0/3
+
+interface Ethernet 0/0/6
+port link-type access
+quit
+vlan 3
+port Ethernet 0/0/6
+
+interface Ethernet 0/0/4
+port link-type access
+quit
+vlan 4
+port Ethernet 0/0/4
+
+
+
+
+
+NIVEL 2
+
+system-view
+sysname desarrollo
+interface Ethernet 0/0/1
+port link-type access
+quit
+interface Ethernet 0/0/2
+port link-type access
+quit
+interface Ethernet 0/0/3
+port link-type access
+quit
+interface Ethernet 0/0/4
+port link-type access
+quit
+vlan 3
+port Ethernet 0/0/1
+port Ethernet 0/0/2
+port Ethernet 0/0/3
+port Ethernet 0/0/4
+
+NIVEL 3
+
+system-view
+sysname publicidad
+interface Ethernet 0/0/1
+port link-type access
+quit
+interface Ethernet 0/0/2
+port link-type access
+quit
+interface Ethernet 0/0/3
+port link-type access
+quit
+interface Ethernet 0/0/4
+port link-type access
+quit
+vlan 4 
+port Ethernet 0/0/1
+port Ethernet 0/0/2
+port Ethernet 0/0/3
+port Ethernet 0/0/4
+
+
+A;NADIENDO COMUNICACION ENTRE PC8 HACIA LA VLAN 3
+NIVEL 1
+
+system-view
+interface Ethernet 0/0/5
+undo negotiation auto
+duplex full
+speed 100
+port link-type trunk
+port trunk allow-pass vlan 3 
+
+
+
+NIVEL 2 
+
+system-view
+interface Ethernet 0/0/6
+undo negotiation auto
+duplex full
+speed 100
+port link-type trunk
+port trunk allow-pass vlan 3
+
+A;NADIENDO COMUNICACION ENTRE PC10 HACIA LA VLAN 4
+
+NIVEL 1
+
+
+system-view
+interface Ethernet 0/0/7
+undo negotiation auto
+duplex full
+speed 100
+port link-type trunk
+port trunk allow-pass vlan 4
+
+
+NIVEL 3 
+
+
+system-view
+interface Ethernet 0/0/5
+undo negotiation auto
+duplex full
+speed 100
+port link-type trunk
+port trunk allow-pass vlan 4
+
+
+CONEXION NIVEL 3-2 Y CONFIGURACION DEL SPANING TREE PROTOCOL
+NIVEL 2 
+
+
+system-view
+interface Ethernet 0/0/5
+undo negotiation auto
+duplex full
+speed 100
+port link-type trunk
+
+NIVEL 3
+
+
+system-view
+interface Ethernet 0/0/6
+undo negotiation auto
+duplex full
+speed 100
+port link-type trunk
+
+STP--------
+ROOT BRIGE SWITCH ADMINISTRACION
+NIVEL 1
+STP MODE STP
+STP ROOT PRIMARY
+
+NIVEL 2
+STP MODE STP
+STP ROOT SECONDARY
+
+DESACTIVANDO SWITCH NIVEL 2-3
+NIVEL 2
+system-view
+interface Ethernet 0/0/5
+stp disable
+quit
+Nivel 3 
+system-view
+interface Ethernet 0/0/6
+stp disable
+quit
+
+luego en cada switch
+stp enable
+
+

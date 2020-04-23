@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RannarSmart:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed26cb43-1661-4453-a8ed-30d426f99f3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RannarSmart" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVfRFtcHgjqjljiDw5NbuFf35M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.khavkivar.impl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.khavkivar.RannarSmart" />
+      <module name="RannarSmart" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed26cb43-1661-4453-a8ed-30d426f99f3c" name="Default Changelist" comment="" />
+      <created>1586825671813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586825671813</updated>
+      <workItem from="1586825675330" duration="4826000" />
+      <workItem from="1586901246898" duration="1175000" />
+      <workItem from="1586904068804" duration="5077000" />
+      <workItem from="1587151925053" duration="84000" />
+      <workItem from="1587152238077" duration="857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="60" width="849" height="676" key="#Project_Structure" timestamp="1586905484139">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="60" width="849" height="676" key="#Project_Structure/0.28.1366.740@0.28.1366.740" timestamp="1586905484139" />
+    <state x="780" y="110" width="376" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1586904255238">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="780" y="110" width="376" height="574" key="#com.intellij.ide.util.MemberChooser/0.28.1366.740@0.28.1366.740" timestamp="1586904255238" />
+    <state x="0" y="107" width="786" height="660" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586901687548">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="0" y="107" width="786" height="660" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.28.1366.740@0.28.1366.740" timestamp="1586901687548" />
+    <state x="485" y="156" width="426" height="483" key="FileChooserDialogImpl" timestamp="1587152001279">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="485" y="156" width="426" height="483" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1587152001279" />
+    <state x="339" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1587151925199">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="339" y="226" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1587151925199" />
+    <state x="0" y="28" width="1358" height="739" key="new project wizard" timestamp="1586834176350">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="0" y="28" width="1358" height="739" key="new project wizard/0.28.1366.740@0.28.1366.740" timestamp="1586834176350" />
+    <state x="346" y="89" width="672" height="160" key="search.everywhere.popup" timestamp="1586827576341">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="346" y="89" width="672" height="160" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1586827576341" />
+  </component>
+</project>
